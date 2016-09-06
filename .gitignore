@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+# ANT
+build/
+dist/
+
+# Maven
+target/
+
+# IDEs
+.idea/
+.project
+.settings/
+*.iml
+/nbproject/private/
